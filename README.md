@@ -43,4 +43,4 @@
 - https://symfony.com/doc/current/templates.html
 
 ## Search for known security holes
--symfony check:security
+- symfony check:security
